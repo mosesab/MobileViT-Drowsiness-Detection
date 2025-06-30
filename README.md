@@ -119,8 +119,8 @@ The confusion matrix confirms the model's high precision and recall, with very f
 ## 6. Acknowledgements
 
 This project uses the following datasets from Kaggle:
-Driver Drowsiness Dataset (DDD) by ISMAIL NASRI.
-Drowsy Detection Dataset by YASHAR JEBRAEILY.
+- Driver Drowsiness Dataset (DDD) by ISMAIL NASRI.
+- Drowsy Detection Dataset by YASHAR JEBRAEILY.
 
 ## 7. License
 This project is licensed under the MIT License. See the LICENSE file for details.
