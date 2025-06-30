@@ -80,11 +80,11 @@ The project follows a structured machine learning pipeline:
     MobileViT_Drowsiness-checkpoint.ipynb   # The notebook from a previous proof of concept test
 ```
 
-## 4. Execution
+**Execution:**
+- Open and run the cells in MobileViT_Drowsiness.ipynb sequentially. The notebook will automatically download the datasets, process the data, train the model, and generate all evaluation plots and artifacts in the visualizations/ and models/ directories.
 
-Open and run the cells in MobileViT_Drowsiness.ipynb sequentially. The notebook will automatically download the datasets, process the data, train the model, and generate all evaluation plots and artifacts in the visualizations/ and models/ directories.
 
-Evaluation and Results
+## 4. Evaluation and Results
 
 The model achieves excellent performance on the unseen test set, demonstrating strong generalization.
 
