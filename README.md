@@ -108,7 +108,8 @@ The confusion matrix confirms the model's high precision and recall, with very f
 
 
 ## 5. Future Work
-
+- Retrain with more varied datasets to improve generalization for real world applications.
+  
 - Threshold Tuning: Analyze the model's ROC or DET curve to select an optimal classification threshold that further minimizes APCER for safety-critical deployment.
 
 - In-the-Wild Testing: Evaluate the model on more challenging, real-world data featuring varied lighting conditions, occlusions (sunglasses), and different camera angles.
